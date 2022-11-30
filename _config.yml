@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zifan Yu / Site Title"
+title                    : "Zifan Yu"
 title_separator          : "-"
 name                     : &name "Zifan Yu"
 description              : &description "personal description"
