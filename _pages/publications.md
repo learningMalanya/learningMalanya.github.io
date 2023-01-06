@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!--- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -14,4 +14,10 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+--->
+
+## Software Packages
+[BulkLMM.jl](https://github.com/senresearch/BulkLMM.jl)
+
+[MatrixLMnet.jl](https://github.com/senresearch/MatrixLMnet.jl)
 
