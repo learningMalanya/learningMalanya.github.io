@@ -1,11 +1,8 @@
 ---
-title: "Variable Importance For Fixed Effects In Linear Mixed Models"
+title: "Software Packages:"
 collection: publications
-permalink: /publication/VIM-WNAR2022
+permalink: /publication/SoftwarePackages
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-06-13
-venue: 'WNAR'
-# paperurl: '/files/VIM(Final).pdf'
-citation: 'Yongzhe Wang, Lingbo Ye, Zifan Yu. (2022). Variable Importance For Fixed Effects In Linear Mixed Models. <i>WNAR Annual Meeting 2022</i>'
 ---
-[paper](https://github.com/learningmalanya/learningmalanya.github.io/tree/master/files/pubs/VIM(Final).pdf)
+[BulkLMM.jl](https://github.com/senresearch/BulkLMM.jl)
+[MatrixLMnet.jl](https://github.com/senresearch/MatrixLMnet.jl)
