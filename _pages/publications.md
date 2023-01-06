@@ -21,7 +21,7 @@ Yongzhe Wang, Lingbo Ye, Zifan Yu. (2022). &quot;Variable Importance For Fixed E
 [link to paper](https://github.com/learningmalanya/learningmalanya.github.io/tree/master/files/pubs/VIM(Final).pdf)
 
 ## Software Packages
-[BulkLMM.jl](https://github.com/senresearch/BulkLMM.jl) - Fast applications of linear mixed models in large-scale genome scans.
+[BulkLMM.jl](https://github.com/learningMalanya/BulkLMM.jl) - Fast applications of linear mixed models in large-scale genome scans.
 
 [MatrixLMnet.jl](https://github.com/senresearch/MatrixLMnet.jl) - Core functions for penalized estimation for matrix linear models.
 
