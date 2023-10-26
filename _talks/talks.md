@@ -1,5 +1,7 @@
-## Survival Analysis Working Group - Meeting on 07/21/2021
-Talked about the Greenwood's formula and EM algorithm at the meeting on July 21, 2021 of survival analysis working group at University of Washington Department of Biostatisics.
+## Real-time Linear Mixed Model Applications for Association Mapping on Large Numbers of Quantitative Traits
 
-Slides written by Dr.Chan, Gary, professor of Biostatistics at University of Washington.
-[link to video](https://www.youtube.com/watch?v=sLzSI7VNs_c&t=24s)
+- Oral presentations at the ENAR 2023 (March 21, 2023), UTHSC Biostatistics Seminar Series (September 18, 2023), and the CTC-RG Annual Meeting 2023 (October 11, 2023).
+
+- Presented statistical methodology and computational performances of developed methods in the Julia package *BulkLMM*, for performing fast genome scans on multiple quantitative traits.
+
+- Presentation slides [here](<../files/pubs/BulkLMM UTHSC Seminar.pdf>)
