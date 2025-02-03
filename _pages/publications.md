@@ -16,7 +16,6 @@ author_profile: true
 {% endfor %}
 --->
 
-*(\* indicates first authorship)*
 ## BulkLMM: Real-time genome scans for multiple quantitative traits using linear mixed models (preprint)
 **Zifan Yu***, Gregory Farage, Robert W. Williams, Karl W. Broman, ´Saunak Sen. (2023) <i>bioRxiv</i>
 [[doi]](https://www.biorxiv.org/content/10.1101/2023.12.20.572698v1)
