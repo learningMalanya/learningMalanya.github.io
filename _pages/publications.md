@@ -16,9 +16,15 @@ author_profile: true
 {% endfor %}
 --->
 
-## Variable Importance For Fixed Effects In Linear Mixed Models
-Yongzhe Wang, Lingbo Ye, Zifan Yu. (2022). &quot;Variable Importance For Fixed Effects In Linear Mixed Models.&quot; <i>WNAR Annual Meeting 2022</i>
-[link to paper](https://github.com/learningmalanya/learningmalanya.github.io/tree/master/files/pubs/VIM(Final).pdf)
+*(* indicates first authorship)*
+## BulkLMM: Real-time genome scans for multiple quantitative traits using linear mixed models (preprint)
+**Zifan Yu***, Gregory Farage, Robert W. Williams, Karl W. Broman, ´Saunak Sen. (2023) <i>bioRxiv</i>
+[[doi]](https://www.biorxiv.org/content/10.1101/2023.12.20.572698v1)
+
+## Investigating large vision-language models’ capabilities in text-guided segmentation (student technical paper)
+Michael Villarreal, Dylan Lewis, Lu Liu, Sujit Kumar Tripathy, **Zifan Yu** (authors listed in alphabetical order) (2024)
+[[link to paper]]()
+
 
 ## Software Packages
 [BulkLMM.jl](https://github.com/learningMalanya/BulkLMM.jl) - Fast applications of linear mixed models in large-scale genome scans.
